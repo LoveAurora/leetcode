@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/AllProject/C++Project",
-      "program": "e:/AllProject/C++Project/build/Debug/outDebug",
+      "cwd": "e:/AllProject/C++Project/Leecode",
+      "program": "e:/AllProject/C++Project/Leecode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "E:/C++/mingw64/bin/gdb.exe",
       "setupCommands": [
